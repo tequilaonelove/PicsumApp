@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_explore">
+
+    <fragment
+        android:id="@+id/navigation_explore"
+        android:name="ru.test.app.picsum.ui.explore.ExploreFragment"
+        android:label="@string/title_explore"
+        tools:layout="@layout/fragment_explore" />
+
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="ru.test.app.picsum.ui.favorite.FavoriteFragment"
+        android:label="@string/title_liked"
+        tools:layout="@layout/fragment_favorite" />
+
+</navigation>

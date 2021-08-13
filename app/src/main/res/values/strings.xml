@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Picsum App</string>
+    <string name="title_explore">Случайное</string>
+    <string name="title_liked">Любимое</string>
+    <string name="network_error">Отстутствует интернет-соединение</string>
+    <string name="pics_deleted">Deleted</string>
+    <string name="pics_liked">Liked a photo</string>
+</resources>

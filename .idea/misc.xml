@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_collections_24dp.xml" value="0.31574074074074077" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_delete_24dp.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_favorite_24dp.xml" value="0.3101851851851852" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_favorite_black_24dp.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_more_vert_24dp.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ic_person_24dp.xml" value="0.19144144144144143" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/drawable/ripple_circle_grey.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/layout/fragment_explore.xml" value="0.25" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/layout/fragment_favorite.xml" value="0.33" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/layout/item_explore.xml" value="0.33" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/layout/item_favorite.xml" value="0.3171171171171171" />
+        <entry key="..\:/Users/tequi/AndroidStudioProjects/PicsumApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3171171171171171" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
